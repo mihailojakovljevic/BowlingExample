@@ -1,0 +1,88 @@
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.exe
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.deps.json
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.json
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.dev.json
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csprojAssemblyReference.cache
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfoInputs.cache
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfo.cs
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\source\repos\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.genruntimeconfig.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.exe
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.deps.json
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.json
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.dev.json
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csprojAssemblyReference.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfoInputs.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfo.cs
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\source\repos\BowlingExample - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.genruntimeconfig.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.exe
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.deps.json
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.json
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.dev.json
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csprojAssemblyReference.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfoInputs.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfo.cs
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.genruntimeconfig.cache
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.dll.config
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Natalija\source\repos\BowlingExample - Copy - Copy\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csproj.CopyComplete
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.exe
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.dll.config
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.deps.json
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.json
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.runtimeconfig.dev.json
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csprojAssemblyReference.cache
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfoInputs.cache
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.AssemblyInfo.cs
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csproj.CoreCompileInputs.cache
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.csproj.CopyComplete
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.dll
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.pdb
+C:\Users\Natalija\Desktop\BowlingExample\BowlingExample\obj\Debug\netcoreapp3.1\BowlingExample.genruntimeconfig.cache
